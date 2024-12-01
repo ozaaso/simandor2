@@ -1,0 +1,20 @@
+{
+  "kodeSatker": "KOD002",
+  "namaSatker": "Satker IT Support",
+  "kodeBarang": "BRG002",
+  "namaBarang": "PC Desktop",
+  "hentiGuna": "2025-05-15",
+  "flagAtb": "N",
+  "nup": 22,
+  "merk": "HP",
+  "tipe": "EliteDesk",
+  "kondisi": "Rusak",
+  "jumlah": "5",
+  "masaGaransi": "2026-06-30",
+  "tanggalPerolehan": "2023-07-01",
+  "nilaiPerolehan": "5000000",
+  "rencanaPenghapusan": 1,
+  "tag": "Aset Tidak Penting",
+  "keterangan": "Butuh perbaikan",
+  "foto": "https://example.com/foto-pc-desktop.jpg"
+}
