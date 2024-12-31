@@ -49,7 +49,7 @@ public class Aset {
     
     private Date tanggalPerolehan;
     private String nilaiPerolehan;
-    private int rencanaPenghapusan;
+    private Date rencanaPenghapusan;
 
     private String tag;
     private String keterangan;
